@@ -13,15 +13,15 @@
 
 We can use many params to filter 
 
-### get all the users combine with transactions using: /api/users
-### get users filtered with currency using: /api/users?currency=`any allowed cuurency`
+- get all the users combine with transactions using: /api/users
+- get users filtered with currency using: /api/users?currency=`any allowed cuurency`
 
 ## Transactions endpoint GET: /api/transaction
 
 There are many params using in filters.
 
-### all transactions: /api/transactions
-### transaction filtered with statusCode: /api/transactions?statusCode=`1 or 2 or 3`
-### transaction filtered with statusCode: /api/transactions?currency=`any cuurency allowed`
-### transaction filtered with statusCode: /api/transactions?lowAmount=`number`&highAmount=`number`
-### transaction filtered with statusCode: /api/transactions?startDate=`YYYY-mm-dd`&endDate=`YYYY-mm-dd`
+- all transactions: /api/transactions
+- transaction filtered with statusCode: /api/transactions?statusCode=`1 or 2 or 3`
+- transaction filtered with statusCode: /api/transactions?currency=`any cuurency allowed`
+- transaction filtered with statusCode: /api/transactions?lowAmount=`number`&highAmount=`number`
+- transaction filtered with statusCode: /api/transactions?startDate=`YYYY-mm-dd`&endDate=`YYYY-mm-dd`
