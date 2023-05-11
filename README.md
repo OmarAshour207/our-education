@@ -25,3 +25,6 @@ There are many params using in filters.
 - transaction filtered with statusCode: /api/transactions?currency=`any cuurency allowed`
 - transaction filtered with statusCode: /api/transactions?lowAmount=`number`&highAmount=`number`
 - transaction filtered with statusCode: /api/transactions?startDate=`YYYY-mm-dd`&endDate=`YYYY-mm-dd`
+
+## Api collection link
+[Our Education Collection](https://api.postman.com/collections/8536121-187f450e-292e-45a7-b392-5bc2fea155da?access_key=PMAT-01H04JHXVY3EMN7FW1M78KP3N3)
